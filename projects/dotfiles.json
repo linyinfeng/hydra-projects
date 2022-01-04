@@ -1,0 +1,32 @@
+{
+    "main": {
+        "enabled": 1,
+        "hidden": false,
+        "type": 1,
+        "flake": "github:linyinfeng/dotfiles",
+        "description": "",
+        "nixexprinput": "",
+        "nixexprpath": "",
+        "checkinterval": 86400,
+        "schedulingshares": 100,
+        "enableemail": false,
+        "emailoverride": "",
+        "keepnr": 3,
+        "inputs": { }
+    },
+    "staging": {
+        "enabled": 1,
+        "hidden": false,
+        "type": 1,
+        "flake": "github:linyinfeng/dotfiles/staging",
+        "description": "",
+        "nixexprinput": "",
+        "nixexprpath": "",
+        "checkinterval": 86400,
+        "schedulingshares": 100,
+        "enableemail": false,
+        "emailoverride": "",
+        "keepnr": 3,
+        "inputs": { }
+    }
+}

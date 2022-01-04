@@ -1,0 +1,24 @@
+{
+    "enabled": 1,
+    "hidden": false,
+    "description": "",
+    "nixexprinput": "src",
+    "nixexprpath": "default.nix",
+    "checkinterval": 86400,
+    "schedulingshares": 100,
+    "enableemail": false,
+    "emailoverride": "",
+    "keepnr": 3,
+    "inputs": {
+        "src": {
+            "type": "git",
+            "value": "https://github.com/linyinfeng/hydra-projects.git main",
+            "emailresponsible": false
+        },
+        "nixpkgs": {
+            "type": "git",
+            "value": "https://github.com/nixos/nixpkgs.git nixos-unstable",
+            "emailresponsible": false
+        }
+    }
+}
