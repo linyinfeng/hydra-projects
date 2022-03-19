@@ -9,8 +9,8 @@
         "nixexprpath": "",
         "checkinterval": 86400,
         "schedulingshares": 100,
-        "enableemail": false,
-        "emailoverride": "",
+        "enableemail": true,
+        "emailoverride": "lin.yinfeng@outlook.com",
         "keepnr": 3,
         "inputs": { }
     },
@@ -24,8 +24,8 @@
         "nixexprpath": "",
         "checkinterval": 86400,
         "schedulingshares": 100,
-        "enableemail": false,
-        "emailoverride": "",
+        "enableemail": true,
+        "emailoverride": "lin.yinfeng@outlook.com",
         "keepnr": 3,
         "inputs": { }
     }
