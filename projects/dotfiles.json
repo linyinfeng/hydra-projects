@@ -26,7 +26,7 @@
         "schedulingshares": 100,
         "enableemail": true,
         "emailoverride": "lin.yinfeng@outlook.com",
-        "keepnr": 1,
+        "keepnr": 0,
         "inputs": { }
     }
 }
