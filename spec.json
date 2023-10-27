@@ -8,7 +8,7 @@
     "schedulingshares": 100,
     "enableemail": true,
     "emailoverride": "lin.yinfeng@outlook.com",
-    "keepnr": 3,
+    "keepnr": 1,
     "inputs": {
         "src": {
             "type": "git",
